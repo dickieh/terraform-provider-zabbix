@@ -1,6 +1,6 @@
 # Overview
 
-A [Terraform](terraform.io) provider for [Zabbix](https://www.zabbix.com)
+A [Terraform](https://www.terraform.io) provider for [Zabbix](https://www.zabbix.com)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/HashiCorp_horizontal_logo.svg" width="600px">
 
