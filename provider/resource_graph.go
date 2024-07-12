@@ -7,7 +7,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/validation"
-	"github.com/kgeroczi/go-zabbix-api"
+	"github.com/dickieh/go-zabbix-api"
 )
 
 var GRAPH_TYPE_LOOKUP = map[string]zabbix.GraphType{

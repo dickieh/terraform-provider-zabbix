@@ -3,9 +3,9 @@ module github.com/dickieh/terraform-provider-zabbix
 go 1.20
 
 require (
+	github.com/dickieh/go-zabbix-api v0.1.5
 	github.com/hashicorp/terraform v0.12.23
 	github.com/hashicorp/terraform-plugin-sdk v1.7.0
-	github.com/kgeroczi/go-zabbix-api v0.1.3
 )
 
 require (
@@ -71,4 +71,4 @@ require (
 	google.golang.org/grpc v1.23.0 // indirect
 )
 
-//replace github.com/kgeroczi/go-zabbix-api => ../go-zabbix-api
+//replace github.com/dickieh/go-zabbix-api => ../go-zabbix-api
